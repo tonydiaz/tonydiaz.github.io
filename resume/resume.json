@@ -1,0 +1,139 @@
+{
+	"basics": {
+		"name": "Anthony (Tony) Diaz",
+		"label": "Software Engineer",
+		"picture": "https://avatars0.githubusercontent.com/u/7145340?v=3&s=460",
+		"email": "tony@tonydiaz.me",
+		"phone": "(305) 928-4426",
+		"website": "http://tonydiaz.me",
+		"summary": "Tony Diaz is an entrepreneurial minded engineer with 12 years of experience in software /systems engineering & integration and test. This experience includes legacy systems and new technologies. He holds multiple degrees; a B.S in Computer Science from, M.S in Engineering Management and an MBA with a focus on innovation development and strategy. Tony is a continuous learner who enjoys working with new technologies. He is originally from Florida and now currently works for IBM. His passions include new ventures, innovation, Gator football and skiing. Formal resume is available upon request.",
+		"location": {
+			"address": "",
+			"postalCode": "",
+			"city": "Raleigh",
+			"countryCode": "",
+			"region": "North Carolina"
+		},
+		"profiles": [
+        {
+            "network": "LinkedIn",
+            "username": "anthonydiaz",
+            "url": "https://www.linkedin.com/in/anthonydiaz"
+        },
+        {
+			"network": "Twitter",
+			"username": "t_ony",
+			"url": "http://www.twitter.com/t_ony"
+		}, {
+			"network": "GitHub",
+			"username": "tonydiaz",
+			"url": "https://github.com/tonydiaz"
+		}]
+	},
+	"work": [{
+			"company": "IBM",
+			"position": "Software Engineer",
+			"website": "http://ibm.com/marketplace/cloud/",
+			"startDate": "2015-06-03",
+			"summary": "Responsible for developing frontend web application for the IBM Cloud Marketplace to provide a consistent user experience acroos the family of IBM products.",
+			"highlights": [
+				"Ensure 100% test coverage of developed code.",
+				"Given access to merge code to the baseline as a +2 developer",
+                "Responsible to review team's code prior to merging"
+			]
+		}, {
+			"company": "Moss Cape",
+			"position": "Senior Cloud Engineer",
+			"website": "http://www.mosscape.com/",
+			"startDate": "2014-08-01",
+			"endDate": "2015-06-01",
+			"summary": "Lead developer providing cloud-based software development for the Department of State under the Office of the Chief Architect."
+		}, {
+			"company": "Lockheed Martin",
+			"position": "Project Engineer Staff",
+			"website": "http://www.lockheedmartin.com",
+			"startDate": "2014-08-01",
+			"endDate": "2015-06-01",
+			"summary": "Managed multidisciplinary development projects with 20+ team members; Employed proactive management style ensuring operational proficiency and timely completion of assigned projects within or under timeframe and budget."
+		}, {
+			"company": "Lockheed Martin",
+			"position": "Staff Software Engineer",
+			"website": "http://www.lockheedmartin.com",
+			"startDate": "2009-08-01",
+			"endDate": "2011-10-01",
+			"summary": "Software lead for the entire program, established development priorities, created software processes / procedures and provided daily direction to software team."
+		}, {
+			"company": "Lockheed Martin",
+			"position": "Senior Computer Systems Architect",
+			"website": "http://www.lockheedmartin.com",
+			"startDate": "2007-09-01",
+			"endDate": "2010-07-01",
+			"summary": "Managed system-level requirements for the entire program and fulfillment to the customer. Coordinated the closeout of changes to the established baseline and creation of new baselines."
+		}, {
+			"company": "Lockheed Martin",
+			"position": "Senior Software Engineer",
+			"website": "http://www.lockheedmartin.com",
+			"startDate": "2003-01-01",
+			"endDate": "2007-08-01",
+			"summary": "Engineering Leadership Development Program",
+            "highlights": [
+                "Developed and tested missile module for a mission planning system using C++, C#, ASP.NET MVC and Visual Basic. Contributed to the development of a fingerprint capture system using Java/J2EE and Oracle.",
+                "Lead SW engineer on a research and development project training disaster preparedness through simulated events.",
+                "Led a software upgrade for a tank simulator using Ada and C. Delivered software successfully under a tight schedule. Provided integration and test engineering support to deliver a tank simulator to the customer.",
+                "Developed a process improvement SW application to expedite Configuration Management builds. Improvement reduced the processing time by 1 week, a 90% improvement."
+            ]
+		}
+	],
+	"education": [{
+			"institution": "University of Florida",
+			"area": "Computer Science",
+			"studyType": "Bachelor of Science",
+			"startDate": "1998-06-01",
+			"endDate": "2012-12-01"
+		}, {
+			"institution": "Florida Institute of Technology",
+			"area": "Engineering Management",
+			"studyType": "Master of Science",
+			"startDate": "2003-01-01",
+			"endDate": "2006-01-01"
+		}, {
+			"institution": "Univeristy of Maryland, College Park",
+			"area": "",
+			"studyType": "Master of Business Administration",
+			"startDate": "2007-08-01",
+			"endDate": "2009-06-01"
+		}
+
+	],
+	"skills": [{
+		"name": "Languages",
+		"level": "",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"Javascript",
+			"Node.js",
+            "C#",
+            "ASP.NET",
+            "Java"
+		]
+	}, {
+		"name": "Certifications",
+		"level": "",
+		"keywords": [
+			"AWS Certified Solutions Architect - Associate",
+			"AWS Certified Developer - Associate",
+			"Certified Scrum Master",
+            "Oracle Certified Java SE 7 Programmer - Associate",
+            "PMP"
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "Native speaker"
+	}],
+	"references": [{
+		"name": "",
+		"reference": "Available upon request"
+	}]
+}
