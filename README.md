@@ -7,3 +7,4 @@ http://tonydiaz.github.io/
 - [x] Post Resume
 - [ ] Change template design to a custom one
 - [ ] Work on some projects to post some here :)
+- [ ] More steps
