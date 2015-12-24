@@ -20,14 +20,20 @@
             "username": "anthonydiaz",
             "url": "https://www.linkedin.com/in/anthonydiaz"
         },
+		{
+			"network": "GitHub",
+			"username": "tonydiaz",
+			"url": "https://github.com/tonydiaz"
+		},
+		{
+			"network": "Codepen",
+			"username": "tonydiaz",
+			"url": "http://codepen.io/tonydiaz/"
+		},
         {
 			"network": "Twitter",
 			"username": "t_ony",
 			"url": "http://www.twitter.com/t_ony"
-		}, {
-			"network": "GitHub",
-			"username": "tonydiaz",
-			"url": "https://github.com/tonydiaz"
 		}]
 	},
 	"work": [{
