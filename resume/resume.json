@@ -38,14 +38,15 @@
 	},
 	"work": [{
 			"company": "IBM",
-			"position": "Software Engineer",
+			"position": "Software / DevOps Engineer",
 			"website": "http://ibm.com/marketplace/cloud/",
 			"startDate": "2015-06-03",
 			"summary": "Responsible for developing frontend web application for the IBM Cloud Marketplace to provide a consistent user experience across the family of IBM products.",
 			"highlights": [
+				"DevOps engineer on-call to ensure continuous integration/deployment to production continues including monitoring any production issues.",
+				"Selected to merge code to the baseline as a +2 developer on basis of excellent development work. Responsible to review team's code prior to merging to the baseline.",
 				"Ensure 100% test coverage of developed code.",
-				"Given access to merge code to the baseline as a +2 developer",
-                "Responsible to review team's code prior to merging"
+				"Performed resume screening and interviews for candidates on the team."
 			]
 		}, {
 			"company": "Moss Cape",
