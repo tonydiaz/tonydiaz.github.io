@@ -120,9 +120,22 @@
 			"CSS",
 			"Javascript",
 			"Node.js",
-            "C#",
-            "ASP.NET",
-            "Java"
+      "C#",
+      "ASP.NET",
+      "Java"
+		]
+	}, {
+		"name": "DevOps",
+		"level": "",
+		"keywords": [
+			"Git",
+			"Subversion",
+			"GitHub",
+			"Gerrit",
+			"Travis CI",
+			"Jenkins",
+			"AWS",
+			"BlueMix"
 		]
 	}, {
 		"name": "Certifications",
@@ -131,8 +144,8 @@
 			"AWS Certified Solutions Architect - Associate",
 			"AWS Certified Developer - Associate",
 			"Certified Scrum Master",
-            "Oracle Certified Java SE 7 Programmer - Associate",
-            "PMP"
+      "Oracle Certified Java SE 7 Programmer - Associate",
+      "PMP"
 		]
 	}],
 	"languages": [{
