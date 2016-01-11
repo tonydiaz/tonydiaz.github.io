@@ -85,10 +85,10 @@ post-preview-words: 96
 paginate: 5
 
 email-share: True
-fb-share: True
+fb-share: False
 twitter-share: True
 linkedin-share: True
-reddit-share: True
+reddit-share: False
 google-plus-share: True
 tumblr-share: False
 pinterest-share: False
@@ -104,19 +104,19 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/TD_logo.png"
     date: "June 2015 - Present"
     description: "IBM: Software Engineer - DevOps"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/TD_logo.png"
     date: "May 2014 - May 2015"
     description: "Moss Cape: Senior Cloud Developer"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/TD_logo.png"
     date: "January 2003 - April 2014"
-    description: "Lockheed Martin: Software Engineer"
+    description: "Lockheed Martin: Software/Project Engineer"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/TD_logo.png"
 
 ###########
 # Contact #
