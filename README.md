@@ -7,6 +7,7 @@ http://tonydiaz.github.io/
 - [x] Post Resume
 - [x] Change template design to a custom one
 - [x] Add a favicon
+- [ ] Get comments working
 - [ ] Add a Background for home page and 404
 - [x] Update experience
 - [ ] Work on some projects to post some here :)
