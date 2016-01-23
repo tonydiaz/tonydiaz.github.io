@@ -34,7 +34,6 @@ title: "{ Tony Diaz }"
 description: "Website of Tony Diaz. Opinions expressed are mine."
 keywords: "Tony Diaz, Anthon Diaz, resume, personal, jekyll"
 favicon: "/img/favicon.ico"
-404-img: "/img/labtocat.png"
 
 ################
 # Header layout #
@@ -144,7 +143,7 @@ social:
 # 404 page #
 ############
 
-404-img: "/img/labtocat.png"
+404-img: "/img/TD_logo.png"
 
 ################################################################################
 
