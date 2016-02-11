@@ -94,7 +94,8 @@ pinterest-share: False
 pocket-share: True
 vkontakte-share: False
 
-disqus-shortname: "tonydiaz80"
+# It is the disqus name for the site created
+disqus-shortname: "tonydiaz"
 
 syntax-highlight: True
 
