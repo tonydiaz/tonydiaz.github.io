@@ -1,9 +1,11 @@
 ---
 layout: post
 section-type: post
-title: Bluemix Cloud Application Developer Certification course on Udemy
+title: Bluemix Cloud Application Developer Certification completed
 category: learning
-tags: [ 'learning', 'udemy', 'bluemix', 'certification' ]
+tags: [ 'learning', 'cloud', 'bluemix', 'certification' ]
 ---
 
-I recently completed another Udemy course specifically on the Bluemix cloud application developer certification. This course is fairly new and some of the errors in the content show that. it is a solid training course that walks you through the main points needed for the certification exam. I was pretty good and will only get better as it gets more polished. Although people can pay for this course I noticed that IBM offers two courses to help users get prepared for the certification for FREE. This is unlike AWS that charges thousands of dollars to take one of their prep courses. I was surprised at the free cost considering they could follow suit with AWS. I'm going to take their main certification next, I expect it will be a little more through and contain less errors than this udemy course. 
+I completed the IBM certified cloud application developer test in late February. I didn't get around to posting it until now but wanted to get some of my insights down before totally forgetting them. The process of getting prepared was a little hard to navigate. I have a list of resources (some of which I used) posted in my [goals repo](https://github.com/tonydiaz/goals/blob/master/task-breakdown/bluemix-cert.md) in GitHub. Since I'm an IBM employee I have access to local protor and some resources that are internal but I didn't use any for studying. If you are interested in going fter the certification the best resources I took was the Udemy course. 
+
+Hope this list of resources will help others. 
