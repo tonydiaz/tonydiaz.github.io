@@ -32,7 +32,7 @@ lang: "en"
 author: "Tony Diaz"
 title: "{ Tony Diaz }"
 description: "Website of Tony Diaz. Opinions expressed are mine."
-keywords: "Tony Diaz, Anthon Diaz, resume, personal, jekyll"
+keywords: "Tony Diaz, Anthony Diaz, Tony Diaz resume, Tony Diaz GitHub page"
 favicon: "/img/favicon.ico"
 
 ################
@@ -174,3 +174,4 @@ sass:
 gems:
   - jekyll-paginate
   - jemoji
+  - jekyll-seo-tag
