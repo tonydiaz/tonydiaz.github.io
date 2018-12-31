@@ -1,6 +1,11 @@
 # tonydiaz.github.io
 http://tonydiaz.github.io/
 
+### Jekyll install
+```
+gem install bundler jekyll
+```
+
 ### Jekyll build
 ```
 jekyll build
